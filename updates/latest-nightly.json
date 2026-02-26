@@ -1,19 +1,19 @@
 {
-  "latest_version_name": "1.0.0-nightly (mobile-nightly-20260224-2ba4e48)",
-  "latest_version_code": 2026022413,
+  "latest_version_name": "1.0.0-nightly (mobile-nightly-20260226-cd7a925)",
+  "latest_version_code": 2026022601,
   "release_notes": "Auto-generated release for dev flavor",
   "force_update": false,
   "channel": "nightly",
   "architectures": {
     "arm64": {
-      "download_url": "https://github.com/another-s347/remi-releases/releases/download/mobile-nightly-20260224-2ba4e48/remi-dev-android-arm64-mobile-nightly-20260224-2ba4e48.apk",
-      "sha256": "358e730f05ff3c9aa016550216d73842964f644cca36385f9b2b0236c430dc01",
-      "size_bytes": 40187630
+      "download_url": "https://github.com/another-s347/remi-releases/releases/download/mobile-nightly-20260226-cd7a925/remi-dev-android-arm64-mobile-nightly-20260226-cd7a925.apk",
+      "sha256": "b9ce2f87d6c9dc51b24b3bf4e20b40b07d9b96e445db1ebc46c3d2a9817fbf12",
+      "size_bytes": 40351409
     },
     "x64": {
-      "download_url": "https://github.com/another-s347/remi-releases/releases/download/mobile-nightly-20260224-2ba4e48/remi-dev-android-x64-mobile-nightly-20260224-2ba4e48.apk",
-      "sha256": "8d23ae16429d9309f1f4e257a45a432751ba28e04a5083051cfa015c485fd566",
-      "size_bytes": 42329750
+      "download_url": "https://github.com/another-s347/remi-releases/releases/download/mobile-nightly-20260226-cd7a925/remi-dev-android-x64-mobile-nightly-20260226-cd7a925.apk",
+      "sha256": "471be9e923349cfd868364f3cbc6189b34c070d02ef0f21b84baa97f30507294",
+      "size_bytes": 42491989
     }
   }
 }
