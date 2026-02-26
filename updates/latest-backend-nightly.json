@@ -1,9 +1,9 @@
 {
-  "version": "20260225-513c782",
+  "version": "20260226-3b8bc18",
   "channel": "nightly",
-  "published_at": "2026-02-25T15:30:15Z",
+  "published_at": "2026-02-26T00:55:21Z",
   "images": {
-    "server": "ghcr.io/another-s347/remi-server:20260225-513c782",
-    "agent":  "ghcr.io/another-s347/remi-agent:20260225-513c782"
+    "server": "ghcr.io/another-s347/remi-server:20260226-3b8bc18",
+    "agent":  "ghcr.io/another-s347/remi-agent:20260226-3b8bc18"
   }
 }
