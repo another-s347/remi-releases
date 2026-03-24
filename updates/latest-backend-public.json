@@ -1,9 +1,9 @@
 {
-  "version": "1.0.6",
+  "version": "1.0.7",
   "channel": "public",
-  "published_at": "2026-03-23T17:34:53Z",
+  "published_at": "2026-03-24T00:18:35Z",
   "images": {
-    "server": "ghcr.io/another-s347/remi-server:1.0.6",
-    "agent":  "ghcr.io/another-s347/remi-agent:1.0.6"
+    "server": "ghcr.io/another-s347/remi-server:1.0.7",
+    "agent":  "ghcr.io/another-s347/remi-agent:1.0.7"
   }
 }
