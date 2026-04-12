@@ -1,7 +1,7 @@
 {
-  "tag_name": "desktop-v0.1.12",
-  "version": "0.1.12",
-  "build_number": "2026041000",
+  "tag_name": "desktop-v0.1.13",
+  "version": "0.1.13",
+  "build_number": "2026041212",
   "channel": "stable",
-  "commit": "e5cb5b5"
+  "commit": "b8ee9b0"
 }
