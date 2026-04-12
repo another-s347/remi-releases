@@ -1,19 +1,19 @@
 {
-  "latest_version_name": "1.0.13",
-  "latest_version_code": 2026041001,
+  "latest_version_name": "1.0.14",
+  "latest_version_code": 2026041212,
   "release_notes": "Auto-generated release for public flavor",
   "force_update": false,
   "channel": "stable",
   "architectures": {
     "arm64": {
       "download_url": "https://github.com/another-s347/remi-releases/releases/latest/download/remi-public-android-arm64.apk",
-      "sha256": "4ebbae3d62ce4ceced21136ca5e1ac25f696812a4a70c06c7a78fa2a66af3e94",
-      "size_bytes": 55062335
+      "sha256": "fe8dbe714d62910fd2b816b61e3ad56232889b59722de9132695c9c493fad8c2",
+      "size_bytes": 58273603
     },
     "x64": {
       "download_url": "https://github.com/another-s347/remi-releases/releases/latest/download/remi-public-android-x64.apk",
-      "sha256": "87ea4e35054f1478d52e7ee8a15abfc0a4bda1fe9cad38db659e90408d75cb55",
-      "size_bytes": 57978688
+      "sha256": "a2f3a3d8df0dde4c9ca499c1597f90e8d5807a132979641af3e89388e2e06de2",
+      "size_bytes": 61435711
     }
   }
 }
