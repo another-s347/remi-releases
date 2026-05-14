@@ -1,7 +1,7 @@
 {
-  "tag_name": "desktop-nightly-20260515-0115-7d345f9",
+  "tag_name": "desktop-nightly-20260515-0132-6607be9",
   "version": "0.1.11-nightly",
   "build_number": "2026051417",
   "channel": "nightly",
-  "commit": "7d345f9"
+  "commit": "6607be9"
 }
