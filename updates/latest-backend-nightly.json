@@ -1,8 +1,8 @@
 {
-  "version": "20260515-0858-9692ced",
+  "version": "20260515-203231-9979c07",
   "channel": "nightly",
-  "published_at": "2026-05-15T01:20:25Z",
+  "published_at": "2026-05-15T12:57:17Z",
   "images": {
-    "server": "ghcr.io/another-s347/remi-server:20260515-0858-9692ced"
+    "server": "ghcr.io/another-s347/remi-server:20260515-203231-9979c07"
   }
 }
