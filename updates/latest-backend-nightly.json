@@ -1,8 +1,8 @@
 {
-  "version": "20260702-ca3ae1b",
+  "version": "20260702-23b0de7",
   "channel": "nightly",
-  "published_at": "2026-07-02T16:34:50Z",
+  "published_at": "2026-07-02T16:58:41Z",
   "images": {
-    "server": "ghcr.io/another-s347/remi-server:20260702-ca3ae1b"
+    "server": "ghcr.io/another-s347/remi-server:20260702-23b0de7"
   }
 }
