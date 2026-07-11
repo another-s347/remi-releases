@@ -1,7 +1,7 @@
 {
   "tag_name": "desktop-nightly-20260711-ea4eb44",
-  "version": "0.1.11",
-  "build_number": "2026071115",
+  "version": "test-cache",
+  "build_number": "2026071116",
   "channel": "nightly",
   "commit": "ea4eb44"
 }
